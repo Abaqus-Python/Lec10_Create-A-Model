@@ -1,2 +1,3 @@
 # Lec10_Create-A-Model
-Create a model to submit a run in Abaqus
+
+This is the 10th lecture in "Abaqus Python Scripting - Learn with the Concepts" series. In this lecture, you will learn how to create a model in Abaqus.
